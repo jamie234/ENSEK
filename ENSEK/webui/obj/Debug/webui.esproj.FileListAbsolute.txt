@@ -1,0 +1,2 @@
+C:\Users\jamie\source\repos\ENSEK\WebUI\obj\Debug\webui.esproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\ENSEK No Bin or Obj folder\ENSEK\WebUI\obj\Debug\webui.esproj.CoreCompileInputs.cache
